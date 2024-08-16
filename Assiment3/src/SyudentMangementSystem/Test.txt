@@ -1,0 +1,33 @@
+Alice
+A
+85
+90
+78
+92
+0
+0
+123 Main st
+""
+Yes
+Bob
+B
+75
+89
+70
+85
+88
+90
+456 Elm St
+Apt 101
+Yes
+Charlie
+C
+80
+85
+88
+90
+0
+0
+HEY
+HELLO
+No
