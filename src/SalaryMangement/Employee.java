@@ -16,7 +16,7 @@ abstract public class Employee {
         return this.basicSalary;
     }
     public double calculateSalary(){
-        return 0.0;
+        return basicSalray;
     }
     abstract public void displayDetails();
 }
